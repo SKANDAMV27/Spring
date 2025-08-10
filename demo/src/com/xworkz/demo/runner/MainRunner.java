@@ -6,5 +6,6 @@ public class MainRunner {
     public static void main(String[] args) {
         Bottle bottle=new Bottle();
         bottle.runDemo();
+        System.out.println("Hello Git ");
     }
 }
